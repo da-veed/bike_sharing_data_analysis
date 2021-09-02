@@ -7,9 +7,9 @@ create visualisations and a presentation.
 
 ## Contents
 This repository includes:
-- python jupyter notebook for converting data to .parquet format
+- python jupyter notebook for converting data from .csv to .parquet format
+- folder with data in .parquet format
 - python jupyter notebook for data analysis and visualisation
-- cleaning log
 - dummy presentation for stakeholders
 
 ## Data Sources
